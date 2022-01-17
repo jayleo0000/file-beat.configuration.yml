@@ -1,0 +1,1 @@
+# file-beat.configuration.yml
